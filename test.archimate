@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="test" id="" version="4.0.0">
+<xi:include href="Competences.archimate" xpointer="a1"
+        xmlns:xi="http://www.w3.org/2001/XInclude"/>
+<purpose>This template contains all of the elements from all three layers. It is a good starting point if you want to show the principles of the ArchiMate language.</purpose>
+</archimate:model> 
