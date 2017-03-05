@@ -1277,7 +1277,11 @@ Une compétence est une capacité démontrée d'utiliser des connaisances et d�
 Compétence / Skill. Capacité d'utiliser une connaissance, aptitude développée et/ou capacité d'exécuter ou réaliser effectivement et aisément une activité.&#xD;
 &#xD;
 36 e-compétences&#xD;
+&#xD;
+http://46.105.121.197/AboutGoods/OSSkill/Prod/Cigref/OSSKILL/Referentiels/ref_competence.aspx#0&#xD;
+&#xD;
 </documentation>
+      <property key="Hyperlien" value="http://46.105.121.197/AboutGoods/OSSkill/Prod/Cigref/OSSKILL/Referentiels/ref_competence.aspx#0"/>
     </element>
     <element xsi:type="archimate:Meaning" name="Skill / Savoir-faire / Practice" id="c727d0f7-cb10-4edb-ac3a-77c746cec05e">
       <documentation>The item skill is defined as “ability to carry out managerial or technical tasks” (know-how). Managerial and technical skills are the components of competences and specify some core abilities which form a competence.&#xD;
