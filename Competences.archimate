@@ -1089,14 +1089,14 @@ confidentialité et la disponibilité des &#xD;
 données stockées sur les systèmes &#xD;
 d’information et respecte en la &#xD;
 matière toutes les exigences &#xD;
-juridiques </documentation>
+Contribue à la sécurité physique du site informatique</documentation>
         </element>
         <element xsi:type="archimate:BusinessFunction" name="E6. Gestion de la qualité informatique - N3" id="25af8d4a">
-          <documentation> Evalue les indicateurs &#xD;
-et les processus de management &#xD;
-de la qualité sur la base de la &#xD;
-politique qualité informatique et &#xD;
-propose les actions correctives</documentation>
+        <documentation>Est l’interface reconnue des experts des autres domaines &#xD;
+Définit les règles de bonne gestion des systèmes d’exploitation &#xD;
+Qualifie les systèmes d'un point de vue technique et fonctionnel &#xD;
+Vérifie l’application des normes (sécurité informatique, qualité…) &#xD;
+Certifie les composants et d’applications développées</documentation>
         </element>
         <element xsi:type="archimate:BusinessFunction" name="E8. Gestion de la sécurité de l’information - N3" id="aca2c20d">
           <documentation> Evalue les mesures et &#xD;
