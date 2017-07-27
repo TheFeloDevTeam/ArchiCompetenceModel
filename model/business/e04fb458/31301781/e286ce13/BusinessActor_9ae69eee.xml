@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultant en SI"
+    id="9ae69eee">
+  <properties
+      key="Hyperlien"
+      value="..\KZAADTSU\2012_Profils informatiques professionnels européens basés sur le e-CF.pdf"/>
+</archimate:BusinessActor>

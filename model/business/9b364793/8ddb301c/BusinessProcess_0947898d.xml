@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Surveillance"
+    id="0947898d"
+    documentation="Effectue le démarrage, l'arrêt et la surveillance permanente des ressources en référence au planning &#xD;&#xA;des travaux de la journée &#xD;&#xA;Alerte et intervient sur les incidents &#xD;&#xA;Lance  les  outils  ou  les  commandes  de  reprise  (reprise  manuelle,  reconfiguration  des  ressources, &#xD;&#xA;recopie des fichiers, opérations de sauvegarde…)  "/>

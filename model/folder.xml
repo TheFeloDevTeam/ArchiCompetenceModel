@@ -1,5 +1,6 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Compétences"
-    id="25a2cc0e-1fae-4fec-9762-f804657d4519"
+    name="Competences"
+    id="570928ca"
+    purpose="This template contains all of the elements from all three layers. It is a good starting point if you want to show the principles of the ArchiMate language."
     version="4.0.0"/>

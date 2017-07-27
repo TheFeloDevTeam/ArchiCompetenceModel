@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10. Management des communications du projet"
+    id="e11e6ed3"
+    documentation="Le  management  des  communications  du  projet  est  le  domaine  de  connaissance  qui &#xD;&#xA;emploie les processus nécessaires pour assurer, en temps voulu et de façon appropriée, &#xD;&#xA;la génération, la collecte, la diffusion, le stockage, la récupération et le traitement final &#xD;&#xA;des  informations  du  projet.  Les  processus  de  management  des  communications  du &#xD;&#xA;projet apportent les liens indispensables entre les gens et les informations nécessaires &#xD;&#xA;à une communication réussie. Les chefs de projet peuvent passer un temps significatif &#xD;&#xA;à  communiquer  avec  l'équipe  de  projet,  les  parties  prenantes,  le  client  et  le &#xD;&#xA;commanditaire. Toute personne impliquée dans le projet devrait comprendre comment &#xD;&#xA;les communications affectent le projet dans son ensemble.">
+  <properties
+      key="Modèle de référence"
+      value="PMBoK"/>
+</archimate:BusinessProcess>

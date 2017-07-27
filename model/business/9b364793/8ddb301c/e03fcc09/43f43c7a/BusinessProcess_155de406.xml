@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10.1 Planification des communications"
+    id="155de406"
+    documentation=" ce  processus  détermine  les  besoins &#xD;&#xA;d'information et de communication des parties prenantes du projet.">
+  <properties
+      key="Modèle de référence"
+      value="PMBoK"/>
+</archimate:BusinessProcess>

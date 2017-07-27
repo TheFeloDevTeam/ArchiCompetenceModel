@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accueil des demandes des utilisateurs suite à des dysfonctionnements "
+    id="3397a82b"
+    documentation="Prend en compte les appels des utilisateurs &#xD;&#xA;Enregistre des incidents ou anomalies de fonctionnement signalées &#xD;&#xA;Prédiagnostique et qualifie"/>

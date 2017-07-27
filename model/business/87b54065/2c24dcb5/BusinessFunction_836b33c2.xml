@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B4. Déploiement de la solution - N2"
+    id="836b33c2"
+    documentation=" Installe ou &#xD;&#xA;désinstalle de façon &#xD;&#xA;systématique les éléments du &#xD;&#xA;système. Identifie les &#xD;&#xA;composants hors service et &#xD;&#xA;établit la cause profonde de &#xD;&#xA;défaillance au sein du système &#xD;&#xA;global. Assiste les collègues &#xD;&#xA;moins expérimentés. "/>

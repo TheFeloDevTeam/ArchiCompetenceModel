@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyse des messages reçus à l’unité de pilotage"
+    id="8cc1abbf"
+    documentation="Diagnostique  les  incidents  en  cas  de  problème  constaté  sur  le  réseau,  sur  les  serveurs  ou  en  cas &#xD;&#xA;d’alerte d’un utilisateur"/>

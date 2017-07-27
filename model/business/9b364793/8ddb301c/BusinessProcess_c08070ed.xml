@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion des incidents et de la sécurité"
+    id="c08070ed"
+    documentation="Gère les incidents d’exploitation (diagnostic, intervention, alerte) &#xD;&#xA;Effectue la maintenance applicative de dépannage de 1er niveau &#xD;&#xA;Informe les utilisateurs &#xD;&#xA;Suit les interventions&#xD;&#xA;Contribue à la sécurité physique du site informatique"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alerte éventuelle d’un niveau d’intervention supérieur"
+    id="c37e159f"
+    documentation="Relance des travaux après résolution &#xD;&#xA;Alimente la base des incidents &#xD;&#xA;Maintient la documentation de pilotage  "/>

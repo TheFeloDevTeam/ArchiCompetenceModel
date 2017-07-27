@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C1. Support utilisateur - N2"
+    id="cc3c66c6"
+    documentation="Classifie les problèmes des utilisateurs en identifiant les solutions et les effets secondaires éventuels. &#xD;&#xA;Utilise l’expérience passée pour identifier les problèmes des utilisateurs et interroge la base de données pour trouver les solutions &#xD;&#xA;possibles.&#xD;&#xA;Fait remonter les incidents complexes ou non résolus à des experts confirmés. &#xD;&#xA;Consigne et suit les procédures d’assistance à l‘utilisateur de A à Z.&#xD;&#xA;"/>

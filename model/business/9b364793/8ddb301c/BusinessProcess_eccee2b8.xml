@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Traitement ou déclenchement des actions de support correspondantes"
+    id="eccee2b8"
+    documentation="Traite le 1er niveau des incidents ou anomalies : diagnostic, identification, information, résolution, &#xD;&#xA;formulation &#xD;&#xA;Transfère si nécessaire les appels des utilisateurs aux entités compétentes &#xD;&#xA;Alerte sa hiérarchie sur tout incident qui est « hors norme ». "/>

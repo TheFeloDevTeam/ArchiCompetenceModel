@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activités / Tâches / Travail au quotidien du profil"
+    id="d1dabbbe"
+    documentation="Une activité de travail (normalement partiellement prédéfinie) qui a un début et une fin et des résultats observables.&#xD;&#xA;&#xD;&#xA;Une liste de tâches typiques devant être exécutées par le profil&#xD;&#xA;&#xD;&#xA;Une tâche est une action réalisée dans un environnement donné &#xD;&#xA;pour obtenir un résultat. &#xD;&#xA;Les tâches peuvent être associées à des échéances, à des &#xD;&#xA;ressources, à des objectifs, à des spécifications et/ou à des &#xD;&#xA;résultats attendus. Ces éléments dépendent du contexte de la &#xD;&#xA;tâche et sont facultatifs, mais l’action doit toujours être décrite. &#xD;&#xA;&#xD;&#xA;"/>

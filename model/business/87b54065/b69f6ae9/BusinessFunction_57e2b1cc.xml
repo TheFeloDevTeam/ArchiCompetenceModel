@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C4. Gestion des problèmes - N2"
+    id="57e2b1cc"
+    documentation="Identifie et classe les &#xD;&#xA;types d’incident et les &#xD;&#xA;interruptions de service. Consigne &#xD;&#xA;les incidents, en les répertoriant &#xD;&#xA;par symptôme et par résolution."/>

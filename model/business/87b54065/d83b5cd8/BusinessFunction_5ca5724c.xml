@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A2. Gestion des niveaux de service"
+    id="5ca5724c"
+    documentation="Définit, valide et fait appliquer les accords de niveaux de service (SLA) et les contrats de sous-traitance pour les services proposés.&#xD;&#xA;Négocie les niveaux d’exécution de service compte tenu des besoins et de la capacité des clients et de l’entreprise. "/>

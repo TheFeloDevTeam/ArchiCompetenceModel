@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suivi des incidents"
+    id="613562ac"
+    documentation="Effectue le suivi du traitement des appels des utilisateurs &#xD;&#xA;Exploite la base d’incidents : relances, consolidation, analyse de tendance &#xD;&#xA;Emet des demandes d’actions préventives de fond"/>

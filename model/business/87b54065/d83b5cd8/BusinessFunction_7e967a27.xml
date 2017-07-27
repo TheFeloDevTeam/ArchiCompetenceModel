@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A5. Conception de l’architecture"
+    id="7e967a27"
+    documentation="Spécifie, détaille, actualise et met en place une approche formelle de mise en œuvre de solutions, nécessaires au développement et à l’exploitation de l’architecture informatique.&#xD;&#xA;&#xD;&#xA;Gère la relation avec les dirigeants de l’entreprise afin de garantir que l’architecture est conforme aux exigences  métier.&#xD;&#xA;&#xD;&#xA;Identifie les besoins de changement et les composants impliqués : matériels, logiciels, applications, processus, plate-forme informatique.&#xD;&#xA;&#xD;&#xA;Garantit que tous les aspects tiennent compte de l’interopérabilité, de la variabilité dimensionnelle, de l’utilité et de la sécurité."/>
